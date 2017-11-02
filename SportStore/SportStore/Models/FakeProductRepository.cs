@@ -10,7 +10,7 @@ namespace SportStore.Models
         public IEnumerable<Product> Products => new List<Product>{
             new Product { Name = "Football", Price = 25},
             new Product { Name = "Football", Price = 179},
-            new Product { Name = "Football", Price = 95}
+            new Product { Name = "Football", Price = 95, Description="You will be a champion!!"}
         };
     }
 }
