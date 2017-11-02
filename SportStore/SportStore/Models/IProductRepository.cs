@@ -5,7 +5,8 @@ using System.Threading.Tasks;
 
 namespace SportStore.Models
 {
-    interface IProductRepository
+    public interface IProductRepository
     {
+        IEnumerable<Product> Products { get;  } //get - só posso ir buscar - buscar produtos
     }
 }
