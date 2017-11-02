@@ -9778,11 +9778,11 @@
       "hideWarningsAndErrors": true
     },
     "restore": {
-      "projectUniqueName": "C:\\Users\\Acer\\Documents\\Eng Informática\\3Ano\\1Sem\\Programaçao_para_Internet\\SportStore\\SportStore\\SportStore.csproj",
+      "projectUniqueName": "C:\\Users\\Acer\\Documents\\GitHub\\SportStore\\SportStore\\SportStore\\SportStore.csproj",
       "projectName": "SportStore",
-      "projectPath": "C:\\Users\\Acer\\Documents\\Eng Informática\\3Ano\\1Sem\\Programaçao_para_Internet\\SportStore\\SportStore\\SportStore.csproj",
+      "projectPath": "C:\\Users\\Acer\\Documents\\GitHub\\SportStore\\SportStore\\SportStore\\SportStore.csproj",
       "packagesPath": "C:\\Users\\Acer\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Acer\\Documents\\Eng Informática\\3Ano\\1Sem\\Programaçao_para_Internet\\SportStore\\SportStore\\obj\\",
+      "outputPath": "C:\\Users\\Acer\\Documents\\GitHub\\SportStore\\SportStore\\SportStore\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Acer\\AppData\\Roaming\\NuGet\\NuGet.Config",
