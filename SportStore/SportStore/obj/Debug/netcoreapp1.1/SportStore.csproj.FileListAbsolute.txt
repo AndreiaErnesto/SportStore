@@ -1,0 +1,21 @@
+C:\Users\1011713\Desktop\SportStore\SportStore\bin\Debug\netcoreapp1.1\SportStore.deps.json
+C:\Users\1011713\Desktop\SportStore\SportStore\bin\Debug\netcoreapp1.1\SportStore.runtimeconfig.json
+C:\Users\1011713\Desktop\SportStore\SportStore\bin\Debug\netcoreapp1.1\SportStore.runtimeconfig.dev.json
+C:\Users\1011713\Desktop\SportStore\SportStore\bin\Debug\netcoreapp1.1\SportStore.dll
+C:\Users\1011713\Desktop\SportStore\SportStore\bin\Debug\netcoreapp1.1\SportStore.pdb
+C:\Users\1011713\Desktop\SportStore\SportStore\obj\Debug\netcoreapp1.1\SportStore.csprojResolveAssemblyReference.cache
+C:\Users\1011713\Desktop\SportStore\SportStore\obj\Debug\netcoreapp1.1\SportStore.csproj.CoreCompileInputs.cache
+C:\Users\1011713\Desktop\SportStore\SportStore\obj\Debug\netcoreapp1.1\SportStore.AssemblyInfo.cs
+C:\Users\1011713\Desktop\SportStore\SportStore\obj\Debug\netcoreapp1.1\SportStore.dll
+C:\Users\1011713\Desktop\SportStore\SportStore\obj\Debug\netcoreapp1.1\SportStore.pdb
+C:\Users\Acer\Documents\Eng Informática\3Ano\1Sem\Programaçao_para_Internet\SportStore\SportStore\bin\Debug\netcoreapp1.1\SportStore.deps.json
+C:\Users\Acer\Documents\Eng Informática\3Ano\1Sem\Programaçao_para_Internet\SportStore\SportStore\bin\Debug\netcoreapp1.1\SportStore.runtimeconfig.json
+C:\Users\Acer\Documents\Eng Informática\3Ano\1Sem\Programaçao_para_Internet\SportStore\SportStore\bin\Debug\netcoreapp1.1\SportStore.runtimeconfig.dev.json
+C:\Users\Acer\Documents\Eng Informática\3Ano\1Sem\Programaçao_para_Internet\SportStore\SportStore\bin\Debug\netcoreapp1.1\SportStore.dll
+C:\Users\Acer\Documents\Eng Informática\3Ano\1Sem\Programaçao_para_Internet\SportStore\SportStore\bin\Debug\netcoreapp1.1\SportStore.pdb
+C:\Users\Acer\Documents\Eng Informática\3Ano\1Sem\Programaçao_para_Internet\SportStore\SportStore\obj\Debug\netcoreapp1.1\SportStore.csprojResolveAssemblyReference.cache
+C:\Users\Acer\Documents\Eng Informática\3Ano\1Sem\Programaçao_para_Internet\SportStore\SportStore\obj\Debug\netcoreapp1.1\SportStore.csproj.CoreCompileInputs.cache
+C:\Users\Acer\Documents\Eng Informática\3Ano\1Sem\Programaçao_para_Internet\SportStore\SportStore\obj\Debug\netcoreapp1.1\SportStore.AssemblyInfoInputs.cache
+C:\Users\Acer\Documents\Eng Informática\3Ano\1Sem\Programaçao_para_Internet\SportStore\SportStore\obj\Debug\netcoreapp1.1\SportStore.AssemblyInfo.cs
+C:\Users\Acer\Documents\Eng Informática\3Ano\1Sem\Programaçao_para_Internet\SportStore\SportStore\obj\Debug\netcoreapp1.1\SportStore.dll
+C:\Users\Acer\Documents\Eng Informática\3Ano\1Sem\Programaçao_para_Internet\SportStore\SportStore\obj\Debug\netcoreapp1.1\SportStore.pdb
